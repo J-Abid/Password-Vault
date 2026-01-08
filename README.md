@@ -4,6 +4,7 @@
 <img width="939" height="505" alt="Vault_Dashboard" src="https://github.com/user-attachments/assets/fcbee454-e60c-4bbd-b005-b4d8842f354f" />
 <img width="320" height="290" alt="Password_Generator" src="https://github.com/user-attachments/assets/2a528bca-0609-4de7-82fb-507886ea7ea8" />
 <img width="356" height="517" alt="Add_Password" src="https://github.com/user-attachments/assets/a0507eaa-e907-481f-90c6-77c25bf3e328" />
+
 🔗 Live Demonstration: https://j-abid.github.io/Password-Vault/
 
 SecureVault is a robust, privacy-focused password management solution engineered entirely within a single HTML file. By leveraging the Web Crypto API and LocalStorage, it offers a secure, offline-capable vault for managing sensitive credentials without reliance on external servers, cloud databases, or complex build steps.
